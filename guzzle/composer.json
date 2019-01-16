@@ -1,0 +1,12 @@
+{
+    "name": "martijnsmit/guzzle",
+    "authors": [
+        {
+            "name": "Martijn Smit",
+            "email": "smit@mollie.com"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "^6.3"
+    }
+}
